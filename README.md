@@ -43,6 +43,10 @@ Python version: [UACANet](https://github.com/plemeri/UACANet)
 ## Pre-computed maps
 [Here](https://drive.google.com/drive/folders/1RdobIUs4SqY7cYFgqg_XSxsbEXP9R_df?usp=drive_link)
 
+## Benchmark
+![tab1](figs/tab1.png)
+![tab2](figs/tab2.png)
+
 ## Citation
 Please cite our paper if you find the work useful
 ```
