@@ -47,6 +47,9 @@ Python version: [UACANet](https://github.com/plemeri/UACANet)
 ![tab1](figs/tab1.png)
 ![tab2](figs/tab2.png)
 
+## Visual results
+![show1](figs/show1.png)
+
 ## Citation
 Please cite our paper if you find the work useful
 ```
