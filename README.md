@@ -36,9 +36,9 @@ Matlab version: [PraNet](https://github.com/DengPingFan/PraNet)
 Python version: [UACANet](https://github.com/plemeri/UACANet)
 
 ## Checkpoints
-[SAM2](https://github.com/facebookresearch/sam2/)
-[SegNext](https://drive.google.com/file/d/1QfzketbV3GJJFbDcJXsfON0v4Emza_IC/view?usp=drive_link)
-[PSCS2Net](https://drive.google.com/file/d/1h6eqA2u-DCFE_mKJDLiro3Wldo0mgbWV/view?usp=drive_link)
+[SAM2](https://github.com/facebookresearch/sam2/)  
+[SegNext](https://drive.google.com/file/d/1QfzketbV3GJJFbDcJXsfON0v4Emza_IC/view?usp=drive_link)  
+[PSCS2Net](https://drive.google.com/file/d/1h6eqA2u-DCFE_mKJDLiro3Wldo0mgbWV/view?usp=drive_link)  
 
 ## Pre-computed maps
 [Here](https://drive.google.com/drive/folders/1RdobIUs4SqY7cYFgqg_XSxsbEXP9R_df?usp=drive_link)
