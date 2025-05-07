@@ -32,7 +32,7 @@ python infer.py --exp_name 'exp' --dataset_name 'Kvasir'  --test_seg_dir "data/T
 You can directly run the `train.sh` to train and evaluate our framework.
 
 ## Evaluation toolbox
-Matlab version: [PraNet](https://github.com/DengPingFan/PraNet)
+Matlab version: [PraNet](https://github.com/DengPingFan/PraNet)  
 Python version: [UACANet](https://github.com/plemeri/UACANet)
 
 ## Checkpoints
