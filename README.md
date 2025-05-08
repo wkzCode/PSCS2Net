@@ -1,5 +1,7 @@
 # PSCS2Net: An Polyp Segmentation Method Based on Augmented Segment Anything Model 2
- 
+
+![over](figs/over.png)
+
 ## Requirements
 ```
 conda create --name PSCS2Net python=3.10
