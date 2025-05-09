@@ -53,7 +53,7 @@ Python version: [UACANet](https://github.com/plemeri/UACANet)
 ![show1](figs/show1.png)
 
 ## Citation
-Please cite our paper if you find the work useful
+Please cite our paper and star our project if you find the work is useful
 ```
 
 ```
